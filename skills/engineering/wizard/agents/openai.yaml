@@ -1,0 +1,4 @@
+name: wizard
+description: Generate an interactive bash wizard that walks a human through steps only they can perform.
+policy:
+  allow_implicit_invocation: false
