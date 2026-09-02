@@ -52,6 +52,7 @@ Skills fall into two distinct execution tiers:
 
 ### Specialized Pathways
 
+- **v0 UI Prompting**: Idea / `to-spec` / Screenshot → `v0-app-prompt` → v0 generation → inspect / `prototype` → `implement`
 - **Large / Foggy Projects**: `wayfinder` → `research` / `domain-modeling` / `codebase-design` → `to-spec` → `to-tickets` → `implement`
 - **UI / Logic Uncertainty**: `prototype` → learn & observe → `grill-with-docs` / `to-spec`
 - **Merge & Rebase Conflicts**: `resolving-merge-conflicts` → intent analysis → resolution → `tdd` test verification
@@ -72,6 +73,7 @@ Skills fall into two distinct execution tiers:
 | [`triage`](./skills/engineering/triage/SKILL.md) | Triage | User-invoked | Move incoming issues and PRs through a state machine of triage roles |
 | [`wayfinder`](./skills/engineering/wayfinder/SKILL.md) | Planning | User-invoked | Chart multi-session large projects as decision maps on issue tracker |
 | [`improve-codebase-architecture`](./skills/engineering/improve-codebase-architecture/SKILL.md) | Refactoring | User-invoked | Surface deepening opportunities and present visual HTML candidate reports |
+| [`v0-app-prompt`](./skills/engineering/v0-app-prompt/SKILL.md) | UI Generation | User-invoked | Generate optimized implementation prompts for v0 by Vercel |
 | [`grilling`](./skills/productivity/grilling/SKILL.md) | Primitive | Model-invoked | Relentless interview primitive for stress-testing decisions and ideas |
 | [`domain-modeling`](./skills/engineering/domain-modeling/SKILL.md) | Domain | Model-invoked | Build and sharpen project domain glossary (`CONTEXT.md`) and ADRs |
 | [`codebase-design`](./skills/engineering/codebase-design/SKILL.md) | Design | Model-invoked | Vocabulary and principles for designing deep modules and seams |

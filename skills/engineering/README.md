@@ -15,6 +15,7 @@ Skills reachable only when explicitly invoked by the user to orchestrate a workf
 - [triage](./triage/SKILL.md): Move incoming issues and PRs through a state machine of triage roles.
 - [wayfinder](./wayfinder/SKILL.md): Plan a huge, multi-session effort as a shared map of decision tickets on the issue tracker.
 - [improve-codebase-architecture](./improve-codebase-architecture/SKILL.md): Scan a codebase for deepening opportunities, present a visual HTML report, and grill through chosen candidates.
+- [v0-app-prompt](./v0-app-prompt/SKILL.md): Generate a structured, implementation-ready prompt for v0 by Vercel from requirements, specs, screenshots, or code context.
 
 ## Model-invoked engineering discipline
 

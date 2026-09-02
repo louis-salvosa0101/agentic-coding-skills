@@ -49,6 +49,7 @@ A starting situation that generates work, then merges onto the main flow.
 Skills that don't fit the main flow but are directly reachable:
 
 - **`/improve-codebase-architecture`**: Scan a codebase for deepening opportunities. Run it when you suspect a design problem or after a bug diagnosis reveals missing seams. It is a survey, not a rescue.
+- **`/v0-app-prompt`**: Generate an optimized implementation prompt for v0 by Vercel from requirements, specs, screenshots, or code context.
 - **`/resolving-merge-conflicts`**: Resolve an in-progress git merge or rebase conflict. Reach for it whenever you land in conflict state.
 - **`/wizard`**: Generate an interactive bash wizard for tasks the agent cannot safely perform (provisioning, secrets, third-party dashboards). Use it when the next step requires a human in the browser.
 

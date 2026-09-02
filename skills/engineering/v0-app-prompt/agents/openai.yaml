@@ -1,0 +1,4 @@
+name: v0-app-prompt
+description: Generate a high-quality, structured implementation prompt for v0 by Vercel from user requirements, specs, screenshots, or code context.
+policy:
+  allow_implicit_invocation: false
