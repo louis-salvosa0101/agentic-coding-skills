@@ -1,0 +1,5 @@
+interface:
+  display_name: "Implement Spec"
+  short_description: "Implement a ticket graph across an integration branch"
+policy:
+  allow_implicit_invocation: false

@@ -10,6 +10,8 @@ A complete, project-neutral collection of engineering and productivity skills fo
 - [grill-with-docs](./skills/engineering/grill-with-docs/SKILL.md): clarify a change while updating project language and decisions.
 - [triage](./skills/engineering/triage/SKILL.md): turn incoming issues into agent-ready work.
 - [wayfinder](./skills/engineering/wayfinder/SKILL.md): plan a large, multi-session effort.
+- [implement-spec](./skills/engineering/implement-spec/SKILL.md): implement a spec's ticket graph on one integration branch.
+- [retro](./skills/engineering/retro/SKILL.md): find agent environment improvements from a coding session.
 - [setup-skills](./skills/engineering/setup-skills/SKILL.md): configure the project tracker and documentation layout.
 - [ui-spec](./skills/engineering/ui-spec/SKILL.md): define an implementation-ready user experience.
 - [tech-spec](./skills/engineering/tech-spec/SKILL.md): plan how to implement an approved UX.
@@ -30,6 +32,11 @@ A complete, project-neutral collection of engineering and productivity skills fo
 - [code-review](./skills/engineering/code-review/SKILL.md): review standards and specification compliance.
 - [resolving-merge-conflicts](./skills/engineering/resolving-merge-conflicts/SKILL.md): resolve conflicts by intent.
 - [wizard](./skills/engineering/wizard/SKILL.md): generate interactive procedures for human-only steps.
+- [pr](./skills/engineering/pr/SKILL.md): write a concise PR body with evidence.
+- [git-guardrails-claude-code](./skills/engineering/git-guardrails-claude-code/SKILL.md): block dangerous Git commands with Claude Code hooks.
+- [migrate-to-shoehorn](./skills/engineering/migrate-to-shoehorn/SKILL.md): replace test type assertions with shoehorn.
+- [scaffold-exercises](./skills/engineering/scaffold-exercises/SKILL.md): scaffold course exercise directories.
+- [setup-pre-commit](./skills/engineering/setup-pre-commit/SKILL.md): configure pre-commit checks.
 
 ## Productivity
 
